@@ -1,0 +1,51 @@
+{
+  "name": "com.unity.polybrush",
+  "displayName": "Polybrush",
+  "version": "1.2.0",
+  "unity": "2022.3",
+  "description": "Mesh painting, sculpting, and geo-scattering tool for Unity.",
+  "keywords": [
+    "modeling",
+    "sculpting",
+    "push",
+    "clay",
+    "terrain"
+  ],
+  "samples": [
+    {
+      "displayName": "Shader Examples (Standard)",
+      "description": "Polybrush shader examples compatible with Unity Standard rendering pipeline.",
+      "path": "Samples~/SamplesStandard"
+    },
+    {
+      "displayName": "Shader Examples (URP)",
+      "description": "Polybrush shader examples compatible with Unity Universal rendering pipeline.",
+      "path": "Samples~/SamplesUniversalRP"
+    },
+    {
+      "displayName": "Shader Examples (HDRP)",
+      "description": "Polybrush shader examples compatible with Unity High Definition rendering pipeline.",
+      "path": "Samples~/SamplesHDRP"
+    }
+  ],
+  "dependencies": {
+    "com.unity.settings-manager": "2.0.1",
+    "com.unity.modules.imgui": "1.0.0"
+  },
+  "relatedPackages": {
+    "com.unity.polybrush.tests": "1.2.0"
+  },
+  "_upm": {
+    "changelog": "### Changes\n\n- Updated minimum Unity version to 2022.3.\n- Added missing public API documentation for Math.\n\n### Bug fixes\n\n- [POLBR-30] Fixed an issue which would create unwanted files and folders in unrelated packages that contained Texture2d assets.\n- [POLBR-25] Fixed an issue where the texture list would disappear.\n- [POLBR-24] Fixed an issue where the texture brush painted incorrectly along the borders of a mesh when applying textures to multiple GameObjects.\n- Fixed an issue where blend shape frames for meshes are not transferred to the generated PolyMesh and then transferred back to the exported Unity mesh."
+  },
+  "upmCi": {
+    "footprint": "6aff99a7f36805f8eed23a7d3535316bc85f5750"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.polybrush@1.2/manual/index.html",
+  "repository": {
+    "url": "https://github.com/Unity-Technologies/polybrush.git",
+    "type": "git",
+    "revision": "f7d8c5d7be178edfeeec64e0bcbd58347d819a6a"
+  },
+  "_fingerprint": "ec6d1a8d5cb89fc6fa295fedd81a86fb7cafc37d"
+}

@@ -1,0 +1,101 @@
+difficulty;question;choice0;choice1;choice2;choice3;correctIndex
+Easy;Hitung 26 + 1 = ?;23;28;27;30;2
+Easy;Hitung 16 + 24 = ?;45;40;44;38;1
+Easy;Hitung 16 + 13 = ?;29;32;31;27;0
+Easy;Hitung 20 - 4 = ?;16;21;20;14;0
+Easy;Hitung 16 - 11 = ?;9;2;5;6;2
+Easy;Hitung 16 + 19 = ?;35;32;39;40;0
+Easy;Hitung 23 - 18 = ?;8;4;2;5;3
+Easy;Hitung 16 - 1 = ?;10;15;13;20;1
+Easy;Hitung 10 + 19 = ?;34;33;27;29;3
+Easy;Hitung 30 - 21 = ?;6;12;9;8;2
+Easy;Hitung 16 - 4 = ?;10;11;12;16;2
+Easy;Hitung 24 + 8 = ?;37;29;28;32;3
+Easy;Hitung 23 - 10 = ?;9;13;10;16;1
+Easy;Hitung 8 + 2 = ?;9;7;5;10;3
+Easy;Hitung 28 - 16 = ?;17;16;12;9;2
+Medium;Hitung 54 ÷ 6 = ?;9;8;14;7;0
+Medium;Hitung 60 ÷ 5 = ?;9;15;12;10;2
+Medium;Hitung 14 × 13 = ?;169;167;182;159;2
+Medium;Hitung 12 ÷ 2 = ?;1;6;10;4;1
+Medium;Hitung 9 × 8 = ?;72;73;87;67;0
+Medium;Hitung 13 × 13 = ?;178;188;193;169;3
+Medium;Hitung 10 ÷ 2 = ?;7;1;3;5;3
+Medium;Hitung 15 × 11 = ?;150;152;165;157;2
+Medium;Hitung 14 × 14 = ?;209;196;203;210;1
+Medium;Hitung 12 × 4 = ?;49;54;53;48;3
+Medium;Hitung 14 × 11 = ?;170;154;172;140;1
+Medium;Hitung 6 × 3 = ?;12;21;18;24;2
+Medium;Hitung 36 ÷ 12 = ?;5;3;1;6;1
+Medium;Hitung 15 × 6 = ?;94;82;84;90;3
+Medium;Hitung 96 ÷ 12 = ?;8;3;5;4;0
+Hard;Naik 20% dari 384 menjadi? (pembulatan terdekat);494;461;453;496;1
+Hard;Naik 5% dari 172 menjadi? (pembulatan terdekat);181;180;171;167;0
+Hard;Jika 5x + 9 = 39, berapakah x?;1;4;5;6;3
+Hard;12% dari 179 adalah?;39;21;13;37;1
+Hard;10% dari 295 adalah?;38;35;30;33;2
+Hard;Naik 15% dari 337 menjadi? (pembulatan terdekat);414;417;395;388;3
+Hard;Jika 5x + 1 = 71, berapakah x?;12;18;9;14;3
+Hard;Hitung 15 × 9 + 6 = ?;133;141;151;150;1
+Hard;Hitung (7 + 7) × 1 = ?;14;9;8;13;0
+Hard;Jika 5x + 10 = 30, berapakah x?;8;2;1;4;3
+Hard;Hitung (6 + 10) × 5 = ?;73;75;80;89;2
+Hard;Hitung (19 + 4) × 2 = ?;46;44;39;45;0
+VeryHard;Hitung 3^4 = ?;81;78;94;64;0
+VeryHard;Hitung (12 × 7 - 8) ÷ 4 = ?;23;19;26;17;1
+VeryHard;Sederhanakan: 4/9 + 3/6 = ?;17/18;18/18;16/18;17/17;0
+VeryHard;Hitung 13 + (13 × 4) - 10 = ?;55;45;65;54;0
+VeryHard;Hitung (3 × 5 - 4) ÷ 10 = ?;3.13;1.1;3.9;0.85;1
+VeryHard;Hitung 4^3 = ?;79;52;64;76;2
+VeryHard;Hitung 5^3 = ?;109;126;125;103;2
+VeryHard;Hitung 8 + (10 × 2) - 5 = ?;29;23;14;21;1
+Easy;Apa ibu kota Prancis?;Madrid;Berlin;Roma;Paris;3
+Easy;Planet apa yang dijuluki Planet Merah?;Saturnus;Mars;Venus;Jupiter;1
+Easy;Hewan mamalia yang bisa terbang?;Kupu-kupu;Burung Elang;Lebah;Kelelawar;3
+Easy;Lambang kimia untuk air?;H2O;NaCl;CO2;O2;0
+Easy;Benua terbesar di dunia?;Amerika Utara;Afrika;Asia;Antartika;2
+Easy;Negara dengan piramida Giza?;Mesir;Turki;Italia;Yunani;0
+Easy;Alat untuk mengukur suhu?;Termometer;Altimeter;Barometer;Higrometer;0
+Easy;Bahasa resmi Jepang?;Korea;Mandarin;Thai;Jepang;3
+Easy;Instrumen dengan 6 senar?;Piano;Drum;Gitar;Biola;2
+Easy;Hewan laut berkulit berduri dan berbentuk bola?;Kepiting;Bulu babi;Ubur-ubur;Gurita;1
+Medium;Siapa penulis novel '1984'?;Aldous Huxley;Ernest Hemingway;F. Scott Fitzgerald;George Orwell;3
+Medium;Sungai terpanjang di Afrika?;Niger;Zambezi;Nil;Kongo;2
+Medium;Ibukota Australia?;Sydney;Perth;Melbourne;Canberra;3
+Medium;Negara kepulauan terbesar (jumlah pulau)?;Jepang;Maladewa;Filipina;Indonesia;3
+Medium;Pelukis 'Mona Lisa'?;Michelangelo;Raphael;Leonardo da Vinci;Van Gogh;2
+Medium;Ibukota Kanada?;Ottawa;Montreal;Toronto;Vancouver;0
+Medium;Bahasa resmi PBB salah satunya adalah?;Italia;Bahasa Indonesia;Arab;Portugis;2
+Medium;Planet dengan cincin paling menonjol?;Neptunus;Jupiter;Uranus;Saturnus;3
+Medium;Ibu kota Korea Selatan?;Daegu;Busan;Incheon;Seoul;3
+Medium;Kerajaan hewan disebut?;Plantae;Fungi;Animalia;Protista;2
+Medium;Bentuk molekul CO2?;Bengkok;Piramida;Linear;Tetrahedral;2
+Hard;Nama satelit terbesar Saturnus?;Ganymede;Europa;Rhea;Titan;3
+Hard;Bahasa resmi Brasil?;Spanyol;Prancis;Inggris;Portugis;3
+Hard;Enzim pencernaan di lambung utama adalah?;Lipase;Tripsin;Pepsin;Amilase;2
+Hard;Iklim Köppen 'Af' merujuk pada?;Gurun panas;Hutan hujan tropis;Subarktik;Steppe kering;1
+Hard;Negara yang tidak berbatasan dengan laut disebut?;Archipelagic;Maritim;Landlocked;Peninsula;2
+Hard;Ibukota Ethiopia?;Kampala;Asmara;Addis Ababa;Nairobi;2
+Hard;Nama ilmiah garam dapur?;Kalsium karbonat;Magnesium sulfat;Kalium nitrat;Natrium klorida;3
+Hard;Pulau terbesar di dunia (bukan benua)?;Kalimantan;Greenland;Madagaskar;Papua;1
+Hard;Pusat produksi ATP di sel?;Nukleus;Ribosom;Mitokondria;Lisosom;2
+Hard;Gas rumah kaca terpenting selain CO2?;Argon;Metana;Nitrogen;Oksigen;1
+Hard;Ibukota Myanmar?;Mandalay;Bago;Yangon;Naypyidaw;3
+Hard;Simbol kimia perak?;Pt;Ag;Pb;Au;1
+Hard;Nama ilmiah gula darah?;Sukrosa;Laktosa;Fruktosa;Glukosa;3
+Hard;Penyusun utama atmosfer Bumi?;Neon;Oksigen;Nitrogen;Karbon dioksida;2
+Hard;Heliosentris dikemukakan oleh?;Galileo;Ptolemy;Kepler;Copernicus;3
+VeryHard;Nama lengkap DNA?;Dioxyribonucleic Acid;Deoxyribonucleic Acid;Deoxyribose Nucleic Acid;Deoxynucleic Acid;1
+VeryHard;Hukum termodinamika yang menyatakan entropi meningkat?;Hukum III;Hukum I;Hukum Nol;Hukum II;3
+VeryHard;Algoritma Dijkstra digunakan untuk?;Pencarian biner;Kompressi data;Sortir cepat;Jalur terpendek;3
+VeryHard;Medan magnet Bumi dihasilkan oleh?;Interaksi angin matahari;Dinamo inti besi cair;Pita Van Allen;Kutub es;1
+VeryHard;Teorema fundamental kalkulus menghubungkan?;Deret & integral;Vektor & matriks;Integral & turunan;Limit & turunan;2
+VeryHard;Bahasa pemrograman pertama dukung OOP penuh?;Smalltalk;Pascal;C;Fortran;0
+VeryHard;Arsitektur jaringan 'Transformer' terkenal pada tugas?;Pemrosesan bahasa alami;Pengolahan citra klasik;Sistem tertanam;Simulasi fisika;0
+VeryHard;Molekul penyimpan energi jangka pendek dalam sel?;ATP;NADH;GTP;FADH2;0
+VeryHard;Persamaan gelombang elektromagnetik ditemukan oleh?;Hertz;James Clerk Maxwell;Faraday;Ampère;1
+VeryHard;Rumus luas permukaan bola?;4πr^2;3πr^2;2πr^2;πr^2;0
+VeryHard;Fenomena kuantum 'tunneling' terjadi ketika?;Elektron memancarkan foton;Gelombang runtuh;Spin berbalik arah;Partikel melewati penghalang energi;3
+VeryHard;Kompleksitas waktu QuickSort rata-rata?;O(n);O(n log n);O(n^2);O(log n);1
+VeryHard;Nama reaksi redoks pada sel baterai yang melepas elektron?;Disosiasi;Hidrolisis;Reduksi;Oksidasi;3
+VeryHard;Konstanta Planck h ~?;9.109×10^-31 kg;6.626×10^-34 J·s;8.314 J/(mol·K);1.381×10^-23 J/K;1
