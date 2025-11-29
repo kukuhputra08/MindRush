@@ -1,0 +1,12 @@
+# Folder cache & sementara Unity
+Library/
+Temp/
+Logs/
+Obj/
+Build/
+Builds/
+UserSettings/
+
+# File lain yang tidak perlu
+*.sln
+*.csproj

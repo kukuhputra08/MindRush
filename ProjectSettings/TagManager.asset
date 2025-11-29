@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Pickable
+  - CookingPot
+  - NPC
+  - SpawnLocation
+  - Critter
+  - ChickInLantern
+  - AudioManager
+  - Canvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Sidewalk
+  - Water
+  - UI
+  - Gedung
+  - Ground
+  - PostProcessing
+  - Characters
+  - HideWaterMask
+  - OccludingObjects
+  - OccludedTransparents
+  - TreeLeaves
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
